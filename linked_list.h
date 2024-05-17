@@ -8,7 +8,7 @@ public:
   LinkedList();
   ~LinkedList();
   void print();
-
+  
 protected:
   void insert(int index, int value);
   int get(int index);
